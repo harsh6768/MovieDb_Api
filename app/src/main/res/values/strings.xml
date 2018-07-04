@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parsing_Using_Asynctask</string>
+    <string name="textview">TextView</string>
+    <string name="title">title</string>
+    <string name="releasedate">releaseDate</string>
+    <string name="rate">rate</string>
+</resources>
